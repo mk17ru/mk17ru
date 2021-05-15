@@ -10,7 +10,7 @@
         </ul>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk17ru&show_icons=true&theme=darcula&layout=compact&hide=jupyter%notebook)](https://github.com/anuraghazra/github-readme-stats" width="230" height="230" hide="&hide=jupyter%20notebook">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk17ru&show_icons=true&theme=darcula&layout=compact&hide=java)](https://github.com/anuraghazra/github-readme-stats" width="230" height="230" hide="&hide=jupyter%20notebook">
       </td>
     </tr>
   </table>
