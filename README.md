@@ -5,11 +5,8 @@
     <tr>
       <td>
         <ul>
-          <li>:round_pushpin: currently working on <a href="https://github.com/PrincePepper/MestoRidom">Nearby Project</a> for indoor navigation</li>
           <li>:man_student: studying at <a href="https://en.itmo.ru/en/">National Research ITMO University</a></li>
-          <li>:city_sunset: living in Saint Petersburg / Vladivostok</li>
-          <li>:books: currently learning kotlin and internals of android framework</li>
-          <li>:orange_heart: Jetpack Compose</li>
+          <li>:city_sunset: living in Saint Petersburg / Moscow</li>
         </ul>
       </td>
       <td>
