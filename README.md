@@ -9,9 +9,6 @@
           <li>:city_sunset: living in Saint Petersburg / Moscow</li>
         </ul>
       </td>
-      <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk17ru&show_icons=true&theme=darcula&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats" width="230" height="230">
-      </td>
     </tr>
   </table>
 </div>
