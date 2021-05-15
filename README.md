@@ -10,8 +10,7 @@
         </ul>
       </td>
       <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mk17ru&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk17ru&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="230" height="230">
       </td>
     </tr>
   </table>
