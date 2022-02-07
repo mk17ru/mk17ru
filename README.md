@@ -14,7 +14,8 @@
 </div>
 
 #### Contact me:&nbsp;<a href="https://t.me/tmk17" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="20" height="20"/> </a>
-
+👯 Financial-tracker sirius
+https://gitlab.com/mk17ru/financial-tracker
 <!--
 **mk17ru/mk17ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### I am a passionate android developer who likes to create custom views and draw on canvas :pencil2:
