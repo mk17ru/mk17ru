@@ -22,7 +22,7 @@
           <li>:man_student: Graduated from 31 lyceum Chelyabinsk </li>
           <li>:man_student: Bachelor's degree in Applied Mathematics and Informatics from the <a href="https://en.itmo.ru/en/">National Research ITMO University</a> </li>
           <li>:man_student: Master's degree in the joint program with Yandex, specializing in High-Load Software Systems at <a href="https://en.itmo.ru/en/">National Research ITMO University</a>  </li>
-          <li>:city_sunset: Living in Saint Petersburg / Moscow</li>
+          <li>:city_sunset: Living in Moscow</li>
         </ul>
       </td>
     </tr>
